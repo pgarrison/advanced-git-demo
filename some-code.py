@@ -1,7 +1,7 @@
 def foo():
-    print(7)
+  print(7)
 
 def bar():
-    print("hello")
+  print("hel1o")
 
 bar()
